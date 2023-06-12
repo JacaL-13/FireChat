@@ -1,4 +1,4 @@
-import { View, StyleSheet } from 'react-native/types'
+import { View, StyleSheet } from 'react-native'
 import auth from '@react-native-firebase/auth'
 import {
 	GoogleSigninButton,

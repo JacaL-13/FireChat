@@ -1,4 +1,4 @@
-import { StyleSheet, TextInput, View } from 'react-native/types'
+import { StyleSheet, TextInput, View } from 'react-native'
 
 function Input() {
 	return (

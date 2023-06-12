@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { View, ActivityIndicator, FlatList } from 'react-native/types'
+import { View, ActivityIndicator, FlatList } from 'react-native'
 import auth from '@react-native-firebase/auth'
 import firestore from '@react-native-firebase/firestore'
 

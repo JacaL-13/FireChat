@@ -4,7 +4,7 @@ import {
 	Image,
 	Text,
 	View,
-} from 'react-native/types'
+} from 'react-native'
 import firestore from '@react-native-firebase/firestore'
 import auth from '@react-native-firebase/auth'
 
